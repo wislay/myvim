@@ -36,7 +36,7 @@ Bundle 'gmarik/vundle'
 Bundle 'Lokaltog/vim-powerline'
 Bundle 'tomasr/molokai'
 Bundle 'scrooloose/nerdtree'
-"Bundle 'vim-scripts/Tagbar'
+Bundle 'vim-scripts/Tagbar'
 
 "Powerline
 set laststatus=2
