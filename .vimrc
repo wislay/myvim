@@ -15,8 +15,8 @@ map <F12> <ESC>:tabn<CR> "Tab
 imap <F12> <ESC>:tabn<CR>
 map <F11> <ESC>:tabp<CR>
 imap <F11> <ESC>:tabp<CR>
-map <C-N> <ESC>:tabnew<CR>
-imap <C-N> <ESC>:tabnew<CR>
+map <F10> <ESC>:tabnew<CR>
+imap <F10> <ESC>:tabnew<CR>
 
 imap <C-\> <ESC>
 
